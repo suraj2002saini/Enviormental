@@ -1,0 +1,77 @@
+#container {
+        height: 400px;
+        padding: 10px;
+        margin: 10px;
+        background-color: rgba(255, 0, 200, 0.3);
+        text-align: center;color: rgba(255, 0, 200,0.3);
+        font-style: italic;
+    
+}
+
+
+div {
+    display: block;
+}
+
+
+img {
+    position: relative;border-radius: 20px;
+    width: 400px;
+}
+
+
+h1 {
+    font-style: italic;
+    color: rgb(17, 52, 209);
+}
+
+
+#I {
+    display: inline;
+    /*font-style: italic;*/
+    color: green;
+    font-size: x-large;
+    background-color: rgba(255, 0, 200,0.3);
+}
+
+
+#web {
+  /*  font-style:italic ;*/
+    font-size: large;
+    font-weight: bolder;
+    background-color: rgba(255, 0, 200, 0.3);
+    display: inline;
+}
+
+
+li {
+    font-style: italic;
+    font-weight: bold
+}
+
+
+
+h3 {
+    font-weight: bolder;
+    font-style: italic;
+    
+}
+
+
+p {
+    font-style:italic ;
+    display: inline;
+    font-weight: bold;
+}
+
+
+h4{
+    font-style: italic;
+
+    
+}
+
+
+    
+        
+
